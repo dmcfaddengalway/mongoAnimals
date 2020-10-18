@@ -10,9 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.6.2",
     "nodemon": "^2.0.5",
+    "passport": "^0.4.1",
+    "passport-github2": "^0.1.12",
+    "path": "^0.12.7",
     "uuid": "^8.3.1"
   }
 }
